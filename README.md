@@ -1,5 +1,5 @@
 # SxperLinx
 
-Welcome to my Github profile!
+**Welcome to my Github profile!**
 
-Feel free to contribute and share ideas :)
+Feel free to contribute and share ideas :D
