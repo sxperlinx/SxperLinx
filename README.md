@@ -1,8 +1,8 @@
 <body>
-  <style>
+  <styles>
     .title {
       color: #ff0000;
     }
-  </style>
+  </styles>
   <h1 class="title">Welcome to my github profile!</h1>
 </body>
