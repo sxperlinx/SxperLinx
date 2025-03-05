@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; background-color: red;">
   <img src="/x-assets/logos/nginx.svg" style="width: 80px; height: 80px;" />
   <h1>NGINX</h1>
 </div>
