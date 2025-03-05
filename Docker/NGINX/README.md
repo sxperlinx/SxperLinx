@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="/x-assets/logos/nginx.svg" style="width: 50%; height: 50%;" />
+  <img src="/x-assets/logos/nginx.svg" style="width: 50px; height: 50px;" />
   <h1>NGINX</h1>
 </div>
 
