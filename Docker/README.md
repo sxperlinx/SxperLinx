@@ -1,3 +1,3 @@
 # Dockerfile Collection
 
-Collection of Dockeriles to speed up deployement.
+Collection of Dockerfiles to speed up deployement.
