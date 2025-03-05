@@ -1,6 +1,11 @@
-# NGINX
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="/x-assets/logos/nginx.svg" style="width: 50%; height: 50%;" />
+  <h1>NGINX</h1>
+</div>
 
-Set up an **NGINX** Server:
+
+
+# Set up an NGINX Server:
 
 1. Copy [Dockerfile](./Dockerfile)
 2. Build container: `$ docker build -t nginx:latest .`
