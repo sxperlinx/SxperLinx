@@ -1,5 +1,9 @@
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <img src="/x-assets/logos/nginx.svg" style="width: 80px; height: 80px;" />
+<div align="center">
+  <a href="https://nginx.org">
+    <picture>
+      <img alt="Nginx logo" src="./x-assets/logos/nginx.svg" height="128">
+    </picture>
+  </a>
   <h1>NGINX</h1>
 </div>
 
