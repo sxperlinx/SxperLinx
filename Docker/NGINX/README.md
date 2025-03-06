@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://nginx.org">
     <picture>
-      <img alt="Nginx logo" src="./x-assets/logos/nginx.svg" height="128">
+      <img alt="Nginx logo" src="/x-assets/logos/nginx.svg" height="128">
     </picture>
   </a>
   <h1>NGINX</h1>
